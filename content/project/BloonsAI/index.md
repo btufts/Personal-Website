@@ -1,5 +1,5 @@
 ---
-title: BloonsTD AI
+title: Bloons TD AI
 date: 2022-08-01
 external_link: https://github.com/btufts/BloonsAI
 tags:

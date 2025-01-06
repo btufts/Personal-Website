@@ -3,8 +3,8 @@ title: Algorithmic Trading
 date: 2024-08-01
 external_link: https://github.com/btufts/Quant-Fin-Analysis
 tags:
-  - Trading
   - Quantitative Analysis
+  - Trading
 featured: True
 ---
 
