@@ -4,8 +4,8 @@ authors:
 - Brian Tufts
 - Xuandong Zhao
 - Lei Li
-date: -01-01
-publishDate: '2025-01-06'
+date: 2025-01-06
+publishDate: '2024-12-15'
 publication_types:
 - paper-conference
 publication: '*Neurips Safe Generative AI Workshop 2024*'
